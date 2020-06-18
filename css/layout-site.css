@@ -1,0 +1,32 @@
+/*Configuração do layout*/
+#conteudo {
+	margin-top: 60px;
+	background: #f5f5f5;
+}
+
+#lateral {
+	width: 180px;
+	margin: 0 0 20px -750px;
+	float: left;
+}
+
+#primario {
+	width: 270px;
+	margin: 0 0 20px 195px;
+	float: left;
+}
+
+#uma-coluna #primario {
+	width: 750px;
+	margin: 0 0 20px 0;
+}
+
+#duas-colunas #primario {
+	width: 555px;
+}
+
+#secundario {
+	width: 270px;
+	margin: 0 0 20px 15px;
+	float: left;
+}

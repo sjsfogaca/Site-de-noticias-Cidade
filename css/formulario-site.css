@@ -1,0 +1,19 @@
+/*Formatando formulários*/
+label {
+	display: block;
+	cursor: pointer;
+}
+
+input {
+	padding: 5px;
+	width: 125px;
+	font-size: 0.9em;
+	background-color: #fff;
+}
+
+input.submit {
+	width: 80px;
+	color: #fff;
+	background-color: #B10333;
+	border: 2px solid #870529;
+}

@@ -1,0 +1,12 @@
+/*Caixa*/
+.caixa {
+	margin: 10px 0;
+	padding: 5px;
+	background: #f3f3f3 url(../imagens/fundo-caixa.png);
+}
+
+.caixa-conteudo {
+	background: #fff;
+	padding: 5px;
+	margin-top: 5px;
+}
